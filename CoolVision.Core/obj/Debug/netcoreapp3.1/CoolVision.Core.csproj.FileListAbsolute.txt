@@ -1,0 +1,9 @@
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\bin\Debug\netcoreapp3.1\CoolVision.Core.deps.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\bin\Debug\netcoreapp3.1\CoolVision.Core.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\bin\Debug\netcoreapp3.1\CoolVision.Core.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\obj\Debug\netcoreapp3.1\CoolVision.Core.csproj.AssemblyReference.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\obj\Debug\netcoreapp3.1\CoolVision.Core.AssemblyInfoInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\obj\Debug\netcoreapp3.1\CoolVision.Core.AssemblyInfo.cs
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\obj\Debug\netcoreapp3.1\CoolVision.Core.csproj.CoreCompileInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\obj\Debug\netcoreapp3.1\CoolVision.Core.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision.Core\obj\Debug\netcoreapp3.1\CoolVision.Core.pdb
