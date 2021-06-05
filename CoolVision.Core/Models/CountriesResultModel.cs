@@ -12,9 +12,5 @@ namespace CoolVision.Core.Models
         public List<object> errors { get; set; } = new List<object>();
         public int results { get; set; }
         public List<string> response { get; set; } = new List<string>();
-
-        //public string[] Errors { get; set; }
-        //public int Results { get; set; }
-        //public string[] Response { get; set; }
     }
 }
