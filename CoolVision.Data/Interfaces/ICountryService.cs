@@ -10,5 +10,9 @@ namespace CoolVision.Data.Interfaces
     {
         CountriesResultModel GetFlights();
         CountriesResultModel GetCovid();
+        CountriesResultModel GetFlightsToFrance();
+        CountriesResultModel GetFlightsToUnitedKingdom();
+        CountriesResultModel GetFlightsToUnitedStates();
+        CountriesResultModel GetFlightsToAustralia();
     }
 }

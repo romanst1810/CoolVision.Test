@@ -2,5 +2,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9893c1a_002D9d03_002D4aab_002Dae28_002D0db3014ca092/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCovidCountries" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetCovidCountries&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetFlightsCountries&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetFlightsToFrance&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

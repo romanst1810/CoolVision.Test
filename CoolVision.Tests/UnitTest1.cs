@@ -23,5 +23,13 @@ namespace CoolVision.Tests
             var res = service.GetFlights();
             Assert.IsTrue(res.response.Any());
         }
+        [TestMethod]
+        public void GetFlightsToFrance()
+        {
+            ICountryService service = new CountryService();
+            var res = service.GetFlightsToFrance();
+            Assert.IsTrue(res.response.Any());
+        }
+       
     }
 }
