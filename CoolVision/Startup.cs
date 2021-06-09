@@ -9,9 +9,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CoolVision.BL;
 using CoolVision.Data.Interfaces;
 using CoolVision.Data.Services;
-using CoolVision.Helpers;
 
 namespace CoolVision
 {

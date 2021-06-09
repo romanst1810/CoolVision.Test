@@ -25,3 +25,5 @@ D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVisi
 D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.Core.pdb
 D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.Data.pdb
 D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\obj\Debug\netcoreapp3.1\CoolVision.csproj.CopyComplete
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.BL.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.BL.pdb

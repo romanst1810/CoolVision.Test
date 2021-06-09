@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using CoolVision.Core.Models;
 
-namespace CoolVision.Helpers
+namespace CoolVision.BL
 {
     public interface IFlightService
     {

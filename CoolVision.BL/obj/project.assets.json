@@ -20,20 +20,6 @@
           "lib/netstandard2.0/RestSharp.dll": {}
         }
       },
-      "CoolVision.BL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "CoolVision.Core": "1.0.0",
-          "CoolVision.Data": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CoolVision.BL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CoolVision.BL.dll": {}
-        }
-      },
       "CoolVision.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -108,11 +94,6 @@
         "restsharp.png"
       ]
     },
-    "CoolVision.BL/1.0.0": {
-      "type": "project",
-      "path": "../CoolVision.BL/CoolVision.BL.csproj",
-      "msbuildProject": "../CoolVision.BL/CoolVision.BL.csproj"
-    },
     "CoolVision.Core/1.0.0": {
       "type": "project",
       "path": "../CoolVision.Core/CoolVision.Core.csproj",
@@ -126,8 +107,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CoolVision.BL >= 1.0.0",
-      "CoolVision.Core >= 1.0.0"
+      "CoolVision.Core >= 1.0.0",
+      "CoolVision.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -137,11 +118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision\\CoolVision.csproj",
-      "projectName": "CoolVision",
-      "projectPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision\\CoolVision.csproj",
+      "projectUniqueName": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.BL\\CoolVision.BL.csproj",
+      "projectName": "CoolVision.BL",
+      "projectPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.BL\\CoolVision.BL.csproj",
       "packagesPath": "C:\\Users\\ronan\\.nuget\\packages\\",
-      "outputPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision\\obj\\",
+      "outputPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,11 +143,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.BL\\CoolVision.BL.csproj": {
-              "projectPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.BL\\CoolVision.BL.csproj"
-            },
             "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.Core\\CoolVision.Core.csproj": {
               "projectPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.Core\\CoolVision.Core.csproj"
+            },
+            "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.Data\\CoolVision.Data.csproj": {
+              "projectPath": "D:\\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\\28 Job Interview Works\\CoolVision.Test\\CoolVision.Data\\CoolVision.Data.csproj"
             }
           }
         }
@@ -191,9 +172,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
