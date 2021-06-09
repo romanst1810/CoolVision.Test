@@ -18,3 +18,10 @@ D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVisi
 D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\obj\Debug\netcoreapp3.1\CoolVision.dll
 D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\obj\Debug\netcoreapp3.1\CoolVision.pdb
 D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\obj\Debug\netcoreapp3.1\CoolVision.genruntimeconfig.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.Core.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.Data.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.Core.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\bin\Debug\netcoreapp3.1\CoolVision.Data.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CoolVision.Test\CoolVision\obj\Debug\netcoreapp3.1\CoolVision.csproj.CopyComplete

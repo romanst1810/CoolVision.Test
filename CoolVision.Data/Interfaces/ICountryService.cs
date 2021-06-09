@@ -8,11 +8,8 @@ namespace CoolVision.Data.Interfaces
 {
     public interface ICountryService
     {
-        CountriesResultModel GetFlights();
-        CountriesResultModel GetCovid();
-        CountriesResultModel GetFlightsToFrance();
-        CountriesResultModel GetFlightsToUnitedKingdom();
-        CountriesResultModel GetFlightsToUnitedStates();
-        CountriesResultModel GetFlightsToAustralia();
+        List<Place> GetPlaces();
+        CovidStatistics GetCovidStatistics(string country);
+        BrowseRoutesModel BrowseRoutes(string destinationPlace);
     }
 }

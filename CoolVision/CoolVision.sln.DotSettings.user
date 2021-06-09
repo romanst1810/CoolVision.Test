@@ -4,5 +4,9 @@
     &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetCovidCountries&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetFlightsCountries&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetFlightsToFrance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetPlaces&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetCovidStatistics&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.BrouseRoutes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::19F86C87-38B5-4628-ADA4-3F39D22D21C9::.NETCoreApp,Version=v3.1::CoolVision.Tests.UnitTest1.GetSortedCovidStatistics&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

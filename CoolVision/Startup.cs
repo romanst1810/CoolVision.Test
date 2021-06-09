@@ -9,6 +9,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CoolVision.Data.Interfaces;
+using CoolVision.Data.Services;
+using CoolVision.Helpers;
 
 namespace CoolVision
 {
@@ -25,6 +28,8 @@ namespace CoolVision
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddTransient<ICountryService, CountryService>();
+            services.AddTransient<IFlightService, FlightService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
