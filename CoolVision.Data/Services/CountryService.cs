@@ -31,9 +31,12 @@ namespace CoolVision.Data.Services
             return resultModel;
         }
 
-        public BrowseRoutesModel BrowseRoutes(string destinationPlace)
+        public BrowseRoutesModel BrowseRoutes(string destinationPlace,DateTime outboundpartialdate,DateTime inboundpartialdate)
         {
-            var client = new RestClient($"https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/browseroutes/v1.0/IL/USD/en-US/IL-sky/{destinationPlace}/2021-06-15?inboundpartialdate=2021-10-01");
+            var client = new RestClient($"https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/" +
+                                        $"apiservices/browseroutes/v1.0/IL/USD/en-US/IL-sky/{destinationPlace}/" +
+                                        $"{outboundpartialdate:yyyy-MM-dd}?" +
+                                        $"inboundpartialdate={inboundpartialdate:yyyy-MM-dd}");
             var request = new RestRequest(Method.GET);
             request.AddHeader("x-rapidapi-key", "36ab0bc21dmsh18fedac8662b2eap13bd61jsnf3984c20d5af");
             request.AddHeader("x-rapidapi-host", "skyscanner-skyscanner-flight-search-v1.p.rapidapi.com");

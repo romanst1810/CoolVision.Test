@@ -10,6 +10,7 @@ namespace CoolVision.Data.Interfaces
     {
         List<Place> GetPlaces();
         CovidStatistics GetCovidStatistics(string country);
-        BrowseRoutesModel BrowseRoutes(string destinationPlace);
+        BrowseRoutesModel BrowseRoutes(string destinationPlace, DateTime outboundpartialdate,
+            DateTime inboundpartialdate);
     }
 }

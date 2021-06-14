@@ -44,6 +44,8 @@ namespace CoolVision.Tests
         [TestMethod]
         public void BrouseRoutes()
         {
+            DateTime outboundpartialdate = new DateTime(2021, 06, 15);
+            DateTime inboundpartialdate = new DateTime(2021, 10, 01);
             List<BrowseRoutesModel> br = new List<BrowseRoutesModel>();
             ICountryService service = new CountryService();
             var res = service.GetPlaces();
@@ -51,7 +53,7 @@ namespace CoolVision.Tests
             {
                 if (p.PlaceName == "Israel")
                     continue;
-                BrowseRoutesModel a = service.BrowseRoutes(p.PlaceId);
+                BrowseRoutesModel a = service.BrowseRoutes(p.PlaceId,outboundpartialdate, inboundpartialdate);
                 br.Add(a);
             }
 

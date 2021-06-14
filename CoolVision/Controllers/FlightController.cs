@@ -1,4 +1,5 @@
-﻿using CoolVision.BL;
+﻿using System;
+using CoolVision.BL;
 using CoolVision.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -19,9 +20,12 @@ namespace CoolVision.Controllers
 
         // GET: api/<FlightController>
         [HttpGet]
-        public List<BrowseRoutesModel> Get()
+        public List<FlightModel> Get()
         {
-            return _flightService.BrowseRoutes();
+            DateTime outboundpartialdate = new DateTime(2021, 06, 15);
+            DateTime inboundpartialdate = new DateTime(2021,10,01);
+            var results = _flightService.BrowseRoutes(outboundpartialdate, inboundpartialdate);
+            return results;
         }
     }
 }
