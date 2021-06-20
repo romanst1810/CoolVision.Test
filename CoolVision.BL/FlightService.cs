@@ -30,7 +30,6 @@ namespace CoolVision.BL
                     select _service.BrowseRoutes(sp.PlaceId, outboundpartialdate, inboundpartialdate)
                     );
             }
-
             var result = br.Where(x=>x.Places.Any()).Select(x => GetFlight(x, sortedCountryList)).ToList();
             return result;
         }
